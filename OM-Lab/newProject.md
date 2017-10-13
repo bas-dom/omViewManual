@@ -18,7 +18,9 @@
 
 * 在OM-Lab的项目管理页面中，点击进入此项目的属性窗口，点击“更新上传项目组态文件”按钮，按照提示信息，将s3db.dec文件上传到指定目录。**注**：s3db.dec是用Factory文件菜单-web解密这个功能解密s3db得到的。点击“确定”按钮，即可完成添加或更新现场界面的操作。
 
-                                    ![](http://ww1.sinaimg.cn/mw690/0062oezDgy1fkgmv5tiavj30bo05r74i.jpg)
+  ```
+                                ![](http://ww1.sinaimg.cn/mw690/0062oezDgy1fkgmv5tiavj30bo05r74i.jpg)
+  ```
 
-
+![](http://ww1.sinaimg.cn/mw690/0062oezDgy1fkgmv5tiavj30bo05r74i.jpg)
 
