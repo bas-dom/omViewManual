@@ -12,5 +12,5 @@
 
 ## OM-Lab
 
-* [创建添加新项目](OM-Lab/newProject.md)
+* [创建项目并接入数据及界面](OM-Lab/newProject.md)
 
